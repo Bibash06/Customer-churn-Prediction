@@ -34,3 +34,14 @@ Enhance the project by:
 Ensure you have the necessary dependencies installed:
 ```bash
 pip install -r requirements.txt
+
+## How to Use
+1. **Clone the repository:
+```bash
+git clone https://github.com/your-username/customer-churn-prediction.git
+2. **Navigate to the project directory:
+```bash
+cd customer-churn-prediction
+
+3. **Run the main script or notebooks for data exploration, model training, and evaluation.
+Feel free to reach out if you have any questions or suggestions!
